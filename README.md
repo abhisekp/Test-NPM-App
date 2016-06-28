@@ -83,7 +83,7 @@ $ npm install --global my-sweet-cli # npm i -g my-sweet-cli
 $ npm install --save my-sweet # npm i -S my-sweet
 ```
 
-## <a id="deps"></a>:paperclip: Dependencies <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="deps"></a>:link: Dependencies <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 (optional) A brief description of notable dependent packages
 
@@ -97,7 +97,7 @@ $ npm install --save my-sweet # npm i -S my-sweet
 <!-- /INSTALLATION:END -->
 
 <!-- USAGE:START - Do not remove or modify this section -->
-# <a id="usage"></a>:fireworks: Usage <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+# <a id="usage"></a>:rocket: Usage <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 ```js
 import mySweet from 'my-sweet'
@@ -134,7 +134,7 @@ Describe exported functions and objects.
 <!-- /API:END -->
 
 <!-- EXAMPLE-LIST:START (optional) - Do not remove or modify this section -->
-# <a id="examples"></a>:clipboard: Examples <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+# <a id="examples"></a>:speedboat: Examples <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 List of examples
 <!-- /EXAMPLE-LIST:END -->
@@ -153,6 +153,8 @@ List of examples
 
 <!-- HELP-SUPPORT:START - Do not remove or modify this section -->
 # <a id="help"></a>:hospital: Help & Support <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+
+Add links for getting help and support about this project.
 <!-- /HELP-SUPPORT:END -->
 
 <!-- CONTRIBUTOR-LIST:START - Do not remove or modify this section -->
@@ -170,7 +172,7 @@ Sponsoring mediums such as Patreon, etc.
 <!-- /SPONSOR-LIST:END -->
 
 <!-- LICENSE-LIST:START - Do not remove or modify this section -->
-# <a id="license"></a>:copyright: License <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+# <a id="license"></a>:memo: License <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 [MIT][MITLicenseLink] © [Abhisek Pattnaik][abhisekpGithubLink]
  
