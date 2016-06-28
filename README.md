@@ -179,11 +179,17 @@ Sponsoring mediums such as Patreon, etc.
 > [LICENSE][localLicenseLink]
 <!-- /LICENSE-LIST:END -->
 
+<!-- RELATED:START (optional) - Do not remove or modify this section -->
+## <a id="related"></a>Related Projects <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+
+List of related projects
+<!-- /RELATED:END -->
+
 <!-- PERSONAL-CONTACT:START (optional) - Do not remove or modify this section -->
 
 > ----
 
-## <a id="about"></a>:ghost: About Author <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="about"></a>:ghost: Author <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 <p align="center">
 Tweet <kbd><a href="https://twitter.com/abhisek"><b><img src="https://i.imgur.com/wOPZd0Y.png?1"> @abhisek</b></a></kbd><br>
