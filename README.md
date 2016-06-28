@@ -9,10 +9,10 @@
 <!-- /BANNER:END -->
 
 <!-- TITLE-MD:START - Do not remove or modify this section -->
-<a id="app-top"></a><h1 align="center">:crown: test-npm-app</h1>
+<a id="app-top"></a><h1 align="center">:crown: test-npm-app :crown:</h1>
 
 <!-- TITLE-MD:START - Do not remove or modify this section
-# <a id="app-top"></a>:crown: test-npm-app
+# <a id="app-top"></a>:crown: test-npm-app :crown:
 <!-- /TITLE-MD:END -->
 
 <!-- BADGE-LIST:START - Do not remove or modify this section -->
@@ -39,6 +39,7 @@
 > - Must be on it's own line.
 > - Must match the description in the packager manager's description field.
 > - Must match GitHub's description (if on GitHub).
+
 <!-- /SHORT-DESC:END -->
 
 ----
@@ -73,6 +74,7 @@ Must be at least 3 level deep i.e. capture atleast upto heading 1, 2 and 3.
 - Cover motivation if not already specified in "Long Description".
 - Cover abstract dependencies.
 - Cover intellectual provenance: A *See also* section is also fitting.
+
 <!-- /BACKGROUND:END -->
 
 <!-- INSTALLATION:START - Do not remove or modify this section -->
@@ -94,6 +96,7 @@ $ npm install --save my-sweet # npm i -S my-sweet
 - Link to prerequisite sites for language. [npmjs][], [godocs][], etc.
 - Include any system-specific information needed for Installation.
 - Subsection for dependencies needed for install to work.
+
 <!-- /INSTALLATION:END -->
 
 <!-- USAGE:START - Do not remove or modify this section -->
@@ -120,6 +123,7 @@ $ my-sweet --options --flags --help
 
 - Include background info if not specified in background section
 - Include security related info if not specified in security section 
+
 <!-- /EXTRAS:END -->
 
 <!-- API:START (optional) - Do not remove or modify this section -->
@@ -131,6 +135,7 @@ Describe exported functions and objects.
 - Cover types covered where not obvious.
 - Describe caveats.
 - If using an external API generator (like go-doc, js-doc, or so on), point to an external API.md file. This can be the only item in the section, if present.
+
 <!-- /API:END -->
 
 <!-- EXAMPLE-LIST:START (optional) - Do not remove or modify this section -->
@@ -180,16 +185,16 @@ Sponsoring mediums such as Patreon, etc.
 <!-- /LICENSE-LIST:END -->
 
 <!-- RELATED:START (optional) - Do not remove or modify this section -->
-## <a id="related"></a>Related Projects <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="related"></a>:two_hearts: Related Projects <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 List of related projects
 <!-- /RELATED:END -->
 
 <!-- PERSONAL-CONTACT:START (optional) - Do not remove or modify this section -->
 
-> ----
-
 ## <a id="about"></a>:ghost: Author <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+
+> ----
 
 <p align="center">
 Tweet <kbd><a href="https://twitter.com/abhisek"><b><img src="https://i.imgur.com/wOPZd0Y.png?1"> @abhisek</b></a></kbd><br>
