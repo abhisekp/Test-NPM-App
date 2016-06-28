@@ -1,10 +1,3 @@
-<!-- TITLE-MD:START - Do not remove or modify this section -->
-<a id="app-top"></a><h1 align="center">:crown: test-npm-app</h1>
-
-<!-- TITLE-MD:START - Do not remove or modify this section
-# <a id="app-top"></a>:crown: test-npm-app
-<!-- /TITLE-MD:END -->
-
 <!-- BANNER:START (optional) - Do not remove or modify this section -->
 <div align="center">
 <a href="https://gitter.im/FreeCodeCamp/Help"><img src="http://i.imgur.com/rzyanJt.gif" title="FreeCodeCamp/Help" alt="FreeCodeCamp/Help"></a>
@@ -14,6 +7,13 @@
 [![bannerImage Title][bannerImage]][bannerLink]
 /BANNER-MD:START -->
 <!-- /BANNER:END -->
+
+<!-- TITLE-MD:START - Do not remove or modify this section -->
+<a id="app-top"></a><h1 align="center">:crown: test-npm-app</h1>
+
+<!-- TITLE-MD:START - Do not remove or modify this section
+# <a id="app-top"></a>:crown: test-npm-app
+<!-- /TITLE-MD:END -->
 
 <!-- BADGE-LIST:START - Do not remove or modify this section -->
 <div align="center">
@@ -56,19 +56,19 @@ Ideally, someone who's slightly familiar with your module should be able to refr
 <!-- /LONG-DESC:END -->
 
 <!-- TABLE-OF-CONTENT:START - Do not remove or modify this section --> 
-# <a id="toc"></a>:checkered_flag: Table of Contents
+## <a id="toc"></a>:checkered_flag: Table of Contents
 
 Must be at least 3 level deep i.e. capture atleast upto heading 1, 2 and 3.
 <!-- /TABLE-OF-CONTENT:END -->
 
 <!-- SECURITY:START (optional) - Do not remove or modify this section -->
-# <a id="security"></a>:cop: Security <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="security"></a>:cop: Security <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 (optional) Add any security vulnerability relevant data if applicable
 <!-- /SECURITY:END -->
 
 <!-- BACKGROUND:START (optional) - Do not remove or modify this section -->
-# <a id="background"></a>:briefcase: Background <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="background"></a>:briefcase: Background <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 - Cover motivation if not already specified in "Long Description".
 - Cover abstract dependencies.
@@ -76,18 +76,18 @@ Must be at least 3 level deep i.e. capture atleast upto heading 1, 2 and 3.
 <!-- /BACKGROUND:END -->
 
 <!-- INSTALLATION:START - Do not remove or modify this section -->
-# <a id="install"></a>:cloud: Installation <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="install"></a>:cloud: Installation <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 ```sh
 $ npm install --global my-sweet-cli # npm i -g my-sweet-cli
 $ npm install --save my-sweet # npm i -S my-sweet
 ```
 
-## <a id="deps"></a>:link: Dependencies <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+### <a id="deps"></a>:link: Dependencies <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 (optional) A brief description of notable dependent packages
 
-## <a id="update"></a>:satellite: Updating <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+### <a id="update"></a>:satellite: Updating <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 (optional) How to update and update instructions
 
@@ -97,7 +97,7 @@ $ npm install --save my-sweet # npm i -S my-sweet
 <!-- /INSTALLATION:END -->
 
 <!-- USAGE:START - Do not remove or modify this section -->
-# <a id="usage"></a>:rocket: Usage <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="usage"></a>:rocket: Usage <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 ```js
 import mySweet from 'my-sweet'
@@ -107,7 +107,7 @@ import mySweet from 'my-sweet'
 var mySweet = require('my-sweet');
 ```
 
-## <a id="cli"></a>:computer: CLI <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+### <a id="cli"></a>:computer: CLI <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 ```sh
 $ my-sweet --options --flags --help
 ```
@@ -116,14 +116,14 @@ $ my-sweet --options --flags --help
 <!-- /USAGE:END -->
 
 <!-- EXTRAS:START (optional) - Do not remove or modify this section -->
-# <a id="extras"></a>:nut_and_bolt: Extras <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="extras"></a>:nut_and_bolt: Extras <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 - Include background info if not specified in background section
 - Include security related info if not specified in security section 
 <!-- /EXTRAS:END -->
 
 <!-- API:START (optional) - Do not remove or modify this section -->
-# <a id="api"></a>:loop: API <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="api"></a>:loop: API <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 Describe exported functions and objects.
 
@@ -134,13 +134,13 @@ Describe exported functions and objects.
 <!-- /API:END -->
 
 <!-- EXAMPLE-LIST:START (optional) - Do not remove or modify this section -->
-# <a id="examples"></a>:speedboat: Examples <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="examples"></a>:speedboat: Examples <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 List of examples
 <!-- /EXAMPLE-LIST:END -->
 
 <!-- CONTRIBUTE:START - Do not remove or modify this section -->
-# <a id="contribute"></a>:busts_in_silhouette: Contribute <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="contribute"></a>:busts_in_silhouette: Contribute <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 - State where users can ask questions.
 - State whether PRs are accepted.
@@ -152,19 +152,19 @@ List of examples
 <!-- /CONTRIBUTE:END -->
 
 <!-- HELP-SUPPORT:START - Do not remove or modify this section -->
-# <a id="help"></a>:hospital: Help & Support <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="help"></a>:hospital: Help & Support <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 Add links for getting help and support about this project.
 <!-- /HELP-SUPPORT:END -->
 
 <!-- CONTRIBUTOR-LIST:START - Do not remove or modify this section -->
-# <a id="contributors"></a>:family: Contributors <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="contributors"></a>:family: Contributors <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 This project follows the [all-contributors][all-contributors] specification.
 <!-- /CONTRIBUTOR-LIST:END -->
 
 <!-- SPONSOR-LIST:START - Do not remove or modify this section -->
-# <a id="sponsors"></a>:trophy: Sponsors <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="sponsors"></a>:trophy: Sponsors <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 List of sponsors
 
@@ -172,7 +172,7 @@ Sponsoring mediums such as Patreon, etc.
 <!-- /SPONSOR-LIST:END -->
 
 <!-- LICENSE-LIST:START - Do not remove or modify this section -->
-# <a id="license"></a>:memo: License <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="license"></a>:memo: License <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 [MIT][MITLicenseLink] © [Abhisek Pattnaik][abhisekpGithubLink]
  
@@ -183,7 +183,7 @@ Sponsoring mediums such as Patreon, etc.
 
 > ----
 
-# <a id="about"></a>:ghost: About Author <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
+## <a id="about"></a>:ghost: About Author <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 <p align="center">
 Tweet <kbd><a href="https://twitter.com/abhisek"><b><img src="https://i.imgur.com/wOPZd0Y.png?1"> @abhisek</b></a></kbd><br>
