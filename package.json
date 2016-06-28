@@ -1,6 +1,6 @@
 {
   "name": "@abhisekp/test-npm-app",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Test App",
   "main": "index.js",
   "scripts": {
