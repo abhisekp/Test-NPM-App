@@ -1,8 +1,8 @@
 <!-- TITLE-MD:START - Do not remove or modify this section -->
-<a id="app-top"></a><h1 align="center">:crown: my-sweet package name</h1>
+<a id="app-top"></a><h1 align="center">:crown: test-npm-app</h1>
 
 <!-- TITLE-MD:START - Do not remove or modify this section
-# <a id="app-top"></a>:crown: my-sweet package name
+# <a id="app-top"></a>:crown: test-npm-app 
 <!-- /TITLE-MD:END -->
 
 <!-- BANNER:START (optional) - Do not remove or modify this section -->
