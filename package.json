@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Abhisek Pattnaik <abhisekp@engineer.com> (http://about.me/abhisekp)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhisekp/Test-NPM-App.git"
+  },
   "license": "MIT"
 }
