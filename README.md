@@ -2,7 +2,7 @@
 <a id="app-top"></a><h1 align="center">:crown: test-npm-app</h1>
 
 <!-- TITLE-MD:START - Do not remove or modify this section
-# <a id="app-top"></a>:crown: test-npm-app 
+# <a id="app-top"></a>:crown: test-npm-app
 <!-- /TITLE-MD:END -->
 
 <!-- BANNER:START (optional) - Do not remove or modify this section -->
@@ -148,6 +148,7 @@ List of examples
 - Link to CONTRIBUTE.md file -- if there is one.
 - Link to the GitHub issues.
 - :bowtie: Link to Code of Conduct. This is often in Contribute, or organization wide, so may not be necessary for each module.
+
 <!-- /CONTRIBUTE:END -->
 
 <!-- HELP-SUPPORT:START - Do not remove or modify this section -->
@@ -161,7 +162,7 @@ This project follows the [all-contributors][all-contributors] specification.
 <!-- /CONTRIBUTOR-LIST:END -->
 
 <!-- SPONSOR-LIST:START - Do not remove or modify this section -->
-# <a id="sponsors"></a>:trophy: Sponsors
+# <a id="sponsors"></a>:trophy: Sponsors <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 List of sponsors
 
@@ -179,6 +180,7 @@ Sponsoring mediums such as Patreon, etc.
 <!-- PERSONAL-CONTACT:START (optional) - Do not remove or modify this section -->
 
 > ----
+
 # <a id="about"></a>:ghost: About Author <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 <p align="center">
@@ -212,4 +214,5 @@ Chat with <kbd><a href="https://gitter.im/abhisekp">
 [localLicenseLink]: LICENSE
 [all-contributors]: https://github.com/kentcdodds/all-contributors#emoji-key
 <!-- /LINK-IDENTIFIER-LIST:END -->
+
 
