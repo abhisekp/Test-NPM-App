@@ -1,5 +1,5 @@
 <!-- TITLE-MD:START - Do not remove or modify this section -->
-<a id="app-top"></a><h1 align="center">my-sweet package name</h1>
+<a id="app-top"></a><h1 align="center">test-npm-app</h1>
 
 <!-- TITLE-MD:START - Do not remove or modify this section
 # <a id="app-top"></a>my-sweet package name
