@@ -1,6 +1,6 @@
 {
   "name": "@abhisekp/test-npm-app",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "this is a very short single line description of the package matching the description in the package.json file and github short repo description with not more than 120 characters",
   "main": "index.js",
   "scripts": {
