@@ -1,19 +1,20 @@
 <!-- BANNER:START (optional) - Do not remove or modify this section -->
-<div align="center">
+<a id="app-top"><div align="center">
 <a href="https://gitter.im/FreeCodeCamp/Help"><img src="http://i.imgur.com/rzyanJt.gif" title="FreeCodeCamp/Help" alt="FreeCodeCamp/Help"></a>
 </div>
 
 <!-- BANNER-MD:START (optional) - Do not remove or modify this section
 [![bannerImage Title][bannerImage]][bannerLink]
-/BANNER-MD:START -->
+<!-- /BANNER-MD:END -->
 <!-- /BANNER:END -->
 
-<!-- TITLE-MD:START - Do not remove or modify this section -->
-<a id="app-top"></a><h1 align="center">:crown: test-npm-app :crown:</h1>
+<!-- TITLE:START - Do not remove or modify this section -->
+</a><h1 align="center">:crown: test-npm-app :crown:</h1>
 
 <!-- TITLE-MD:START - Do not remove or modify this section
 # <a id="app-top"></a>:crown: test-npm-app :crown:
-<!-- /TITLE-MD:END -->
+<!-- TITLE-MD:START -->
+<!-- /TITLE:END -->
 
 <!-- BADGE-LIST:START - Do not remove or modify this section -->
 <div align="center">
@@ -81,8 +82,8 @@ Must be at least 3 level deep i.e. capture atleast upto heading 1, 2 and 3.
 ## <a id="install"></a>:cloud: Installation <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 ```sh
-$ npm install --global my-sweet-cli # npm i -g my-sweet-cli
-$ npm install --save my-sweet # npm i -S my-sweet
+$ npm install --global test-npm-app-cli # npm i -g test-npm-app-cli
+$ npm install --save test-npm-app # npm i -S test-npm-app
 ```
 
 ### <a id="deps"></a>:link: Dependencies <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
@@ -103,16 +104,16 @@ $ npm install --save my-sweet # npm i -S my-sweet
 ## <a id="usage"></a>:rocket: Usage <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 
 ```js
-import mySweet from 'my-sweet'
+import testNpmApp from 'test-npm-app'
 
 // OR
 
-var mySweet = require('my-sweet');
+var testNpmApp = require('test-npm-app');
 ```
 
 ### <a id="cli"></a>:computer: CLI <a href="#toc" title="Table of Contents"><kbd>⮭</kbd></a>
 ```sh
-$ my-sweet --options --flags --help
+$ test-npm-app --options --flags --help
 ```
 
 [![asciicast][asciicastImage]][asciicastLink]
