@@ -13,6 +13,9 @@
 
 <!-- TITLE-MD:START - Do not remove or modify this section
 # <a id="app-top"></a>:crown: test-npm-app:crown:
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/abhisekp/Test-NPM-App.svg)](https://greenkeeper.io/)
+
 <!-- TITLE-MD:START -->
 <!-- /TITLE:END -->
 
